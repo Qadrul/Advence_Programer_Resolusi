@@ -1,7 +1,9 @@
 app rencana konten
 90909
 ---
-ntah apa 
-view
+framewrok java script(belajar view)
+main
 java script
+buat ntah apa
 op
+pytoon
