@@ -3,5 +3,6 @@ app rencana konten
 ---
 framewrok java script(belajar view)
 java script
+buat ntah apa
 op
 pytoon
